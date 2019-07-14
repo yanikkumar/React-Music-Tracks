@@ -1,5 +1,21 @@
 # React-Music-Tracks
 **A Music Web Application made using React JS**
+Project features the following content:
+* > Authorization
+  * > Register User 
+  * > Login User
+* > All Tracks 
+* > Profile
+  * > Creted Tracks
+  * > Liked Tracks
+  * > Date Joined w/ Profile Name
+* > Upload Tracks
+  * > Edit Tracks
+  * > Delete Tracks
+  * > Like Tracks
+* > Audio Player and for Downloading
+
+
 
 ## Front End:
 Project is made using **React JS** and using number of **React Hooks**.
