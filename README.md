@@ -25,4 +25,4 @@ In react-tracks-client folder **npm install --save** for installing all the usag
 and in another command line
 In app folder start the shell using **pipenv shell** command then start server by **python manage.py runserver**
 
-Also make sure you add your cloudinary name inside of the CreateTrack.js file in handleAudioUpload
+```Also make sure you add your cloudinary name inside of the CreateTrack.js file in handleAudioUpload```
