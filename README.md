@@ -42,3 +42,12 @@ and in another command line
 In app folder start the shell using **pipenv shell** command then start server by **python manage.py runserver**
 
 ```Also make sure you add your cloudinary name inside of the CreateTrack.js file in handleAudioUpload```
+
+> Below shown some ScreenShots of the project 
+
+![Login Page](ScreenShots/login.png)    ![Register Page](ScreenShots/register.png)
+                                           
+![Alltracks Page](ScreenShots/all-tracks.png)
+
+![Alltracks Page](ScreenShots/upload.png)
+
